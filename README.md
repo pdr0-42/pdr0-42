@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello World
+![MuaKissGIF (2)](https://user-images.githubusercontent.com/110363100/230798439-31ae2e81-57ac-46c2-9c9d-ac991688ebd5.gif)
 
-<!--
-**pdr0-42/pdr0-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estudante de desenvolvimento de software e IA
+- ❤️🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://github.com/pdr0-42">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr0-42&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdr0-42&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pedro-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="pedro-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align = "center" alt = "pedro-jupyter" height = "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          
+        
+  </div>
