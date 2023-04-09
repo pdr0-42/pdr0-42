@@ -1,4 +1,9 @@
 ## Hello World
+
+![YeahBudyRonnieColemanGIF](https://user-images.githubusercontent.com/110363100/230799678-cfdf2fae-d8cb-4b00-a205-a804426df76a.gif)
+
+
+
 - 🔭 Estudante de desenvolvimento de software e IA
 - ❤️🐍 Python
 - 📘 Sistemas de Informação 3/8
