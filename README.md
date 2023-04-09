@@ -1,8 +1,4 @@
 ## Hello World
-![EvilLaughGIF](https://user-images.githubusercontent.com/110363100/230799086-ef72c96d-58dd-4002-ac56-5cd8aa34df1e.gif)
-
-
-
 - 🔭 Estudante de desenvolvimento de software e IA
 - ❤️🐍 Python
 - 📘 Sistemas de Informação 3/8
