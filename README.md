@@ -6,7 +6,7 @@
 
 - 🔭 Estudante de desenvolvimento de software e IA
 - ❤️🐍 Python
-- 📘 Sistemas de Informação 3/8
+- 📘 Sistemas de Informação 4/8
 
  <a href="https://github.com/pdr0-42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdr0-42&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
