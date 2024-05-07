@@ -1,19 +1,19 @@
-## Hello World
+## Who am i?
 
-![YeahBudyRonnieColemanGIF](https://user-images.githubusercontent.com/110363100/230799678-cfdf2fae-d8cb-4b00-a205-a804426df76a.gif)
+My name's Pedro Vinicius and i work as Machine Learning engineer at "F1rst Tecnologia e Inovação ltda". i'm 20, i love play video game's and everything about AI.
+Right here in this profile, you'll find my personal projects that i made along of the years.
 
 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pdr0-42&theme=red-dark&locale=EN&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-- 🔭 Estudante de desenvolvimento de software e IA
+</div>
 
- <a href="https://github.com/pdr0-42">
- <div style="display: inline_block"><br>
-  <img align="center" alt="pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="pedro-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align ="center" alt ="pedro-jupyter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center", alt= "pedro-docker" height= "30", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="pedro-Bash", height="30", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="pedro-Anaconda", height="30", width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-  </div>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/pdr0-42?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
+
 </div>
 
