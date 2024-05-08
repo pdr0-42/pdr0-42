@@ -1,4 +1,4 @@
-<h1 align="center">Who am i</h1>
+<h1 align="center">Who am i?</h1>
 <h3 align="center">My name's Pedro Vinicius and i work as Machine Learning engineer at "F1rst Tecnologia e Inovação ltda". i'm 20, i love play video game's and everything about AI. Right here in this profile, you'll find my personal projects that i made along of the years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pdr0-42&label=Profile%20views&color=0e75b6&style=flat" alt="pdr0-42" /> </p>
