@@ -1,5 +1,6 @@
-
-I'm Pedro and work as a AI Engineer at Santander Bank. I think that's all, here you'll see my projects, repositories, etc.
-
-If you wanna reach me here my professional e-mail: pedroviniciusprofissional04@gmail.com
-
+<a href="https://github.com/pdr0-42/pdr0-42">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pdr0-42/pdr0-42/main/dark_mode.svg">
+    <img alt="pv's GitHub Profile README" src="https://raw.githubusercontent.com/pdr0-42/pdr0-42/main/light_mode.svg">
+  </picture>
+</a>
