@@ -1643,18 +1643,23 @@
 <tspan x="430" y="58" class="muted">.  </tspan><tspan class="heading">Role</tspan><tspan class="muted">: .................  AI Engineer</tspan>
 <tspan x="430" y="78" class="muted">.  </tspan><tspan class="heading">Company</tspan><tspan class="muted">: ..............  Santander Bank</tspan>
 <tspan x="430" y="98" class="muted">.  </tspan><tspan class="heading">Location</tspan><tspan class="muted">: .............  São Paulo, Brazil</tspan>
-<tspan x="430" y="118" class="muted">.  </tspan><tspan class="heading">Focus</tspan><tspan class="muted">: ................  AI, software, technology</tspan>
-<tspan x="430" y="150" class="heading">- About</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
-<tspan x="430" y="170" class="muted">.  </tspan><tspan class="heading">Bio</tspan><tspan class="muted">: ..................  Exploring technologies and building</tspan>
-<tspan x="430" y="190" class="info">.  .......................  AI-powered projects</tspan>
-<tspan x="430" y="222" class="heading">- Contact</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
-<tspan x="430" y="242" class="muted">.  </tspan><tspan class="heading">Email</tspan><tspan class="muted">: ................  pedrovin444@icloud.com</tspan>
-<tspan x="430" y="262" class="muted">.  </tspan><tspan class="heading">GitHub</tspan><tspan class="muted">: ...............  pdr0-42</tspan>
-<tspan x="430" y="294" class="heading">- GitHub Stats</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
-<tspan x="430" y="314" class="muted">.  </tspan><tspan class="heading">Public repos</tspan><tspan class="muted">: .........  8</tspan>
-<tspan x="430" y="334" class="muted">.  </tspan><tspan class="heading">Followers</tspan><tspan class="muted">: ............  3</tspan>
-<tspan x="430" y="354" class="muted">.  </tspan><tspan class="heading">Following</tspan><tspan class="muted">: ............  6</tspan>
-<tspan x="430" y="386" class="note">.  0/1 portrait generated from my photo</tspan>
+<tspan x="430" y="118" class="muted">.  </tspan><tspan class="heading">Focus</tspan><tspan class="muted">: ................  AI experiments &amp; software</tspan>
+<tspan x="430" y="150" class="heading">- Languages</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="170" class="muted">.  </tspan><tspan class="heading">Favorite</tspan><tspan class="muted">: ...............  Python</tspan>
+<tspan x="430" y="202" class="heading">- Technologies</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="222" class="muted">.  </tspan><tspan class="heading">AI stack</tspan><tspan class="muted">: .............  LangChain, LangGraph</tspan>
+<tspan x="430" y="254" class="heading">- Hobbies</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="274" class="muted">.  </tspan><tspan class="heading">Offscreen</tspan><tspan class="muted">: ............  Reading comics &amp; manga</tspan>
+<tspan x="430" y="306" class="heading">- About</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="326" class="muted">.  </tspan><tspan class="heading">Bio</tspan><tspan class="muted">: ..................  Turning curiosity into AI projects</tspan>
+<tspan x="430" y="358" class="heading">- Contact</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="378" class="muted">.  </tspan><tspan class="heading">Email</tspan><tspan class="muted">: ................  pedrovin444@icloud.com</tspan>
+<tspan x="430" y="398" class="muted">.  </tspan><tspan class="heading">GitHub</tspan><tspan class="muted">: ...............  pdr0-42</tspan>
+<tspan x="430" y="430" class="heading">- GitHub Stats</tspan><tspan class="rule">  -————————————————————————————————————————————-—-</tspan>
+<tspan x="430" y="450" class="muted">.  </tspan><tspan class="heading">Public repos</tspan><tspan class="muted">: .........  8</tspan>
+<tspan x="430" y="470" class="muted">.  </tspan><tspan class="heading">Followers</tspan><tspan class="muted">: ............  3</tspan>
+<tspan x="430" y="490" class="muted">.  </tspan><tspan class="heading">Following</tspan><tspan class="muted">: ............  6</tspan>
+<tspan x="430" y="530" class="note">.  0/1 portrait generated from my photo</tspan>
 </text>
 </svg>
 
